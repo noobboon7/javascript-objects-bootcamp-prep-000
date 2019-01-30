@@ -1,3 +1,3 @@
 var playlist = {nirvana: 'teen spirit' };
 
-function 
+function updatePlaylist()
